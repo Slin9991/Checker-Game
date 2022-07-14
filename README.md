@@ -1,0 +1,2 @@
+# Checker-Game
+The Graphical User Interface(GUI) of the Checker Game is created with Java Swing toolkit that is build on the Java AWT. The MainChecker class is a container class implementing JFrame, this class will include JPanel for functional buttons and JPanel that represent the checker board and checkers that are images imported with Toolkit function. The image below shows the interactive GUI for the checker game.
